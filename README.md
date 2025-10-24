@@ -26,5 +26,5 @@ git clone https://github.com/yourusername/haldane-model.git
 cd haldane-model
 
 
-
+---
 This research was funded by the National Science Centre Poland (NCN) according to decision 2021/42/E/ST3/00128

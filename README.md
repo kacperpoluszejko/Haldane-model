@@ -1,6 +1,6 @@
 # Haldane Model Simulation 🧠
 This repository contains a Python implementation of the **Haldane model** — a tight-binding model on a honeycomb lattice that exhibits a **quantum anomalous Hall effect (QAHE)** without an external magnetic field. The project allows you to explore topological properties of the system, such as the **energy band structure** and **Chern number**, by adjusting model parameters like on-site potential, hopping amplitudes, and phase factors.  
-This code was created based on the theory presented [here](link_do_publikacji_lub_materiału_teoretycznego).
+This code was created based on the theory presented [here](https://topocondmat.org/w4_haldane/haldane_model.html).
 
 ---
 
@@ -47,12 +47,7 @@ This will automatically install all dependencies, including precompiled binaries
 ---
 
 ## 🚀 Usage
-Run the main script:
-```bash
-python haldane_model.py
-```
-
-Or open the Jupyter notebook:
+Open the Jupyter notebook:
 ```bash
 jupyter notebook Haldane_graphene.ipynb
 ```
@@ -66,28 +61,6 @@ You can modify parameters directly in the notebook or script to explore differen
 ![Band structure example](images/band_structure.png)  
 ![Berry curvature example](images/berry_curvature.png)
 
----
-
-## 📘 Theory
-The **Haldane model** describes electrons on a honeycomb lattice with complex next-nearest-neighbor hopping that breaks time-reversal symmetry, leading to a non-trivial **Chern insulating phase** — a realization of the **quantum anomalous Hall effect** without an external magnetic field.  
-For theoretical background, see:
-- F. D. M. Haldane, *Phys. Rev. Lett.* **61**, 2015 (1988)  
-- N. P. Armitage *et al.*, *Rev. Mod. Phys.* **90**, 015001 (2018)
-
----
-
-## 🧩 Dependencies
-All required Python packages are listed in [`requirements.txt`](requirements.txt). You can install them using:
-```bash
-pip install -r requirements.txt
-```
-
----
-
-## 🧭 Roadmap
-- [ ] Add ribbon geometry and edge state visualization  
-- [ ] Implement interactive sliders (via ipywidgets)  
-- [ ] Extend to spinful model with spin–orbit coupling  
 
 ---
 

@@ -1,0 +1,8 @@
+numpy>=1.22
+scipy>=1.10
+matplotlib>=3.7
+ipywidgets>=8.0
+ipython>=8.10
+notebook>=7.0
+tinyarray>=1.2
+kwant>=1.4

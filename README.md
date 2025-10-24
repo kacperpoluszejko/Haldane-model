@@ -12,10 +12,9 @@ This code was created based on theory presented [here](link_do_publikacji_lub_ma
 - Compute and visualize **energy bands** of the Haldane model.  
 - Calculate the **Chern number** using Berry curvature integration.  
 - Adjustable parameters:
-  - nearest- and next-nearest-neighbor hopping (\(t_1, t_2\)),
-  - on-site potential difference (\(M\)),
-  - complex phase (\(\phi\)) controlling time-reversal symmetry breaking.  
-- Option to display **edge states** for finite ribbons (if implemented).  
+  - nearest- and next-nearest-neighbor hopping (ta, tb, tab)
+  - on-site potential difference (M), 
+- Option to display **edge states** for finite ribbons.  
 
 ---
 

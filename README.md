@@ -8,7 +8,7 @@ This code was created based on the theory presented [here](https://topocondmat.o
 - Compute and visualize **energy bands** of the Haldane model.  
 - Calculate the **Chern number** using Berry curvature integration.  
 - Adjustable parameters:
-  - nearest- and next-nearest-neighbor hopping (`taa`, `tbb`, tab)
+  - nearest- and next-nearest-neighbor hopping (`taa`, `tbb`, 'tab')
   - on-site potential difference (`M`)
 - Option to display **edge states** for finite ribbons.  
 
@@ -64,6 +64,17 @@ You can modify parameters directly in the notebook or script to explore differen
 
 ---
 
+## 🧪 Citation
+
+If you use this code or its results in your work, please cite it as:
+
+> Kacper Poluszejko, *Haldane Model Simulation*, GitHub repository, 2025.  
+> Available at: [https://github.com/kacperpoluszejko/Haldane-model](https://github.com/kacperpoluszejko/Haldane-model)
+  
+The implementation was inspired by *"The Haldane Model"* tutorial from [Topocondmat.org](https://topocondmat.org/w4_haldane/haldane_model.html) (accessed October 2025).
+
+---
+ 
 ## 📜 License
 Licensed under the **MIT License**. See [LICENSE](LICENSE) for details.
 

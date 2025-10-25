@@ -57,7 +57,6 @@ You can modify parameters directly in the notebook or script to explore differen
 ---
 
 ## 📊 Example Results
-*(Example images — replace with your own plots)*  
 ![Band structure example](images/ArmBand_3(1).png)  
 ![Berry curvature example](images/ZigBand_3.png)
 

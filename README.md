@@ -8,7 +8,7 @@ This code was created based on the theory presented [here](https://topocondmat.o
 - Compute and visualize **energy bands** of the Haldane model.  
 - Calculate the **Chern number** using Berry curvature integration.  
 - Adjustable parameters:
-  - nearest- and next-nearest-neighbor hopping (`taa`, `tbb`, 'tab')
+  - nearest- and next-nearest-neighbor hopping (`taa`, `tbb`, `tab`)
   - on-site potential difference (`M`)
 - Option to display **edge states** for finite ribbons.  
 

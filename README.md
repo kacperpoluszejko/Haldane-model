@@ -1,6 +1,6 @@
 # Haldane Model Simulation 🧠
 This repository contains a Python implementation of the **Haldane model** — a tight-binding model on a honeycomb lattice that exhibits a **quantum anomalous Hall effect (QAHE)** without an external magnetic field. The project allows you to explore topological properties of the system, such as the **energy band structure** and **Chern number**, by adjusting model parameters like on-site potential, hopping amplitudes, and phase factors.  
-This code was created based on the theory presented [here](https://topocondmat.org/w4_haldane/haldane_model.html) and inspired by the tutorial from *Topological Condensed Matter Physics* (Topocondmat.org, 2025).
+This code was created based on the theory presented [here](https://topocondmat.org/w4_haldane/haldane_model.html) and inspired by the tutorial from *Topological Condensed Matter Physics* (Topocondmat.org, 2025)
 
 ---
 
